@@ -9,7 +9,7 @@ window.onload=colorChange;
 		thisImg=0;
 	}
 	document.getElementById("sliderImg").src=sImages[thisImg];
-	setTimeout(rotate,2*1000);
+	setTimeout(rotate,1000);
 }
 function colorChange(){
 	var bgChange=document.getElementsByTagName("ul");
