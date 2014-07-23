@@ -1,6 +1,6 @@
 <!-- header -->
 <div id="header">
-      <a href="/" target="_self"><h1 id="name">KilGame 专注经典游戏</h1></a>
+      <a href="/" target="_self"><h1 id="name">KilGame</h1></a>
       <ul id="nav" class="nav">
           <a href="/" target="_self"><li>首页</li></a>
           <a href="/page.html" target="_self"><li>博文</li></a>
