@@ -3,9 +3,8 @@
       <a href="/" target="_self"><h1 id="name">KilGame</h1></a>
       <ul id="nav" class="nav">
           <a href="/" target="_self"><li>首页</li></a>
-          <a href="/page.html" target="_self"><li>博文</li></a>
+          <a href="/page.html" target="_self"><li>动态</li></a>
           <a href="/production.html" target="_self"><li>作品</li></a>
-          <a href="/message.html" target="_self"><li>留言</li></a>
           <a href="/about.html" target="_self"><li>关于</li></a>
       </ul>
       <div id="search">
